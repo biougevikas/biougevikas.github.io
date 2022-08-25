@@ -15,7 +15,8 @@ A Student cum developer with 4 years of freelancing and 18 months of internship 
 ### **Education**
 #### 2021 - on-going
 > UG Computer Science & Eng.  
-> KLE Technological University
+> KLE Technological University  
+
 #### 2018 - 2021
 > Diploma in Computer Science & Eng.  
 > KLE CIM Polytechnic
