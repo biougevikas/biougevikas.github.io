@@ -5,10 +5,10 @@ Student, UG CSE
 ---
 
 ### **Profile**
-Mobile No. : 
+Mobile No. :    
 Email : biougevikas@gmail.com
 
-A Student cum developer with 4 years of freelancing and 18 months of internship Experience.
+A Student come developer with 4 years of freelancing and 18 months of internship Experience.
 
 ---
 
@@ -27,7 +27,7 @@ A Student cum developer with 4 years of freelancing and 18 months of internship 
 #### 2018
 * Google Indoors  
 	```Firebase, Node.js, React, WebSocket, Dart, Flutter```   
-	An Apple Insight inspired application which maps an office in un
+	An Apple Insight inspired application which maps an office in unbelivable details.
 * Worksheet Manager Application  
 	```Flutter, Dart, Android, SQLite```   
 	A task management app to help you organize and manage your day-to-day. You can set reminders for your task to increase your productivity and focus on what matters.
